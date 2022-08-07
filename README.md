@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # A Laravel Nepali Date Converter.
 
 
@@ -39,7 +38,3 @@ Array
     [num_day] => ७
 )
 ```
-=======
-# nepali-date-convertor
-Laravel Nepali Date Converter
->>>>>>> e0390a047603bd3a5c5267e4272732dbeedea8f4
