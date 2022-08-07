@@ -4,7 +4,7 @@
 A laravel date package which convert AD to BS or viceversa.
 
 #Installation
-1) In order to install Laravel 5 Laravelbsdate, just add the following to your composer.json in require. Then run composer update:
+1) In order to install Laravel bs date, just add the following to your composer.json in require. Then run composer update:
 
 ```json
 composer require vinus/nepalidateconverter
