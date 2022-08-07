@@ -1,0 +1,20 @@
+{
+  "name": "vinus/nepalidateconverter",
+  "description": "Composer ready nepali date converter",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "authors": [
+    {
+      "name": "Binod Bhandary",
+      "email": "binod.bhandary@nicasiabank.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Vinus\\NepaliDateConverter\\":"src/NepaliDateConverter"
+    }
+  }
+}
